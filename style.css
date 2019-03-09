@@ -79,7 +79,7 @@ img:hover{
     -webkit-transform: scale(1.5);
     -moz-transform: scale(1.5);
     -o-transform: scale(1.5);
-    }
+}
 
 .toptext>a {
     color: black;
@@ -94,8 +94,7 @@ h2 {
     font-size: 28px;
     color: white;
     margin-top: 20px;
-    margin-bottom: 0px;
-   
+    margin-bottom: 0px;   
 }
 
 .educ {
@@ -105,9 +104,11 @@ h2 {
 a {
     text-decoration: none;
 }
+
 a:hover {
    color: paleturquoise;
 }
+
 a:visited {
     color: green;
 }
